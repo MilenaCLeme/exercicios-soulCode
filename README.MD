@@ -12,3 +12,13 @@
 - Questionários
 - Conhecendo as variáveis
 - Tipos de váriaveis a serem usadas
+- Exercicio prático
+- Correção exercicio
+
+# III - Manipulação de dados
+
+- Saída de dados em Python
+- Entrada de Dados em Python
+- Operadores aritméticos
+- Exercicio prático
+- Correção exercicio
