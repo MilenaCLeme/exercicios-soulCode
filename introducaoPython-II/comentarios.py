@@ -10,3 +10,5 @@ print("Olá mundo!")
     Este é um comentário 
     longo do Python.
 """
+
+#print("Olá mundo! 2")
