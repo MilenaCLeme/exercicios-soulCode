@@ -11,8 +11,8 @@ Como sugestão de prática, indicamos você a criar um novo script python seguin
 
 """
 
-nome = input("Nome Completo: ")#string
-altura = input("Altura: ")#float
-cpf = input("CPF: ")#inteiro
+nome = input("Digite seu Nome Completo: ")#string
+altura = float(input("Digite sua Altura: "))#float
+cpf = int(input("Digite seu CPF: "))#inteiro
 
-print("O nome completo do usuário",nome, ". Altura do usuario é ", altura, ".É o cpf do usuario: ", cpf, ".")
+print("O nome completo do usuário é",nome, ". A altura do usuario é ", altura, ".É o cpf do usuario é ", cpf, ".")
