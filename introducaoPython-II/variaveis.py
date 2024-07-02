@@ -12,4 +12,4 @@ situacao2 = False
 print(type(idade)) # <class 'int'>
 print(type(peso)) # <class 'float'>
 print(type(nome)) # <class 'str'> 
-print(type(situacao))
+print(type(situacao)) # <class 'bool'>

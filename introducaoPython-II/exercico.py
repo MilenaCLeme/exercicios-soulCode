@@ -25,3 +25,7 @@ weight_cat_mia = 6.0
 # são vacimados ou não
 vaccinated_sarah = False
 vaccinated_mia = True
+
+"""
+    Correção exercico
+"""
