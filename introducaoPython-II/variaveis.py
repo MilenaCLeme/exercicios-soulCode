@@ -1,0 +1,8 @@
+#Variáveis armazena informações (nome em espaço na memoria) - atribuição dinamica
+
+idade = 32
+peso = 65.4
+nome = "Milena"
+peso2 = "65.4"
+situacao = True
+situacao2 = False
