@@ -2,9 +2,9 @@
 
 <p>o Python é muito mais amigável para iniciantes em comparação com outras linguagens. A documentação do python: https://docs.python.org/pt-br/3/ .</p>
 
-# SoulCODE + GRAN
+## SoulCODE + GRAN
 
-# II - Introdução a linguagem Python
+### II - Introdução a linguagem Python
 
 - Por que usar Python ?
 - Comentários em Python
@@ -15,10 +15,18 @@
 - Exercicio prático
 - Correção exercicio
 
-# III - Manipulação de dados
+### III - Manipulação de dados
 
 - Saída de dados em Python
 - Entrada de Dados em Python
 - Operadores aritméticos
+- Exercicio prático
+- Correção exercicio
+
+### IV - Estrutura de condição
+
+- Operadores de relação e condição 
+- O comendo if else
+- O comendo elif 
 - Exercicio prático
 - Correção exercicio
