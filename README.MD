@@ -30,3 +30,13 @@
 - O comendo elif 
 - Exercicio prático
 - Correção exercicio
+
+### V - Estruturas de controle de fluxo
+
+- Laço de repetição While
+- Laço de repetição for
+- Laço for range 
+- Exercício prático
+- Correção exercício
+- Instrução break e continue
+- Questionário 
