@@ -39,4 +39,14 @@
 - Exercício prático
 - Correção exercício
 - Instrução break e continue
-- Questionário 
+- Questionário
+
+### VI - Strings
+
+- Introdução a Strings
+- Propriedade das Strings
+- Fatiando Strings
+- Comparando Strings
+- Percorrendo Strings
+- Exercicios práticos
+- Correção exercicios
