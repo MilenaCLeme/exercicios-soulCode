@@ -50,3 +50,14 @@
 - Percorrendo Strings
 - Exercicios práticos
 - Correção exercicios
+
+### VII - Estrutura de listas
+
+- Introdução a listas
+- Percorrendo listas
+- Fatiando listas
+- Exercício Prático
+- Incluir, alterar, excluir elemento de listas
+- Ordenar listas
+- Exercicio prático 
+- Correção exercicio
