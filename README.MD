@@ -61,3 +61,16 @@
 - Ordenar listas
 - Exercicio prático 
 - Correção exercicio
+
+### VIII - Estrutura de Tuplas
+
+- Introdução a tuplas
+- Operações com tuplas
+
+### IX - Estrutura de Dicionário
+
+- Introdução a dicionários
+- Acessando dicionários
+- Funções com dicionários
+- Exercicio prático
+- Correção exercício
